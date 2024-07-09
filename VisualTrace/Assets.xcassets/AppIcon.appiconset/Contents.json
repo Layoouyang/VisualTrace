@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "resized_image_1024x1024.png",
+      "filename" : "centered_image.jpeg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
