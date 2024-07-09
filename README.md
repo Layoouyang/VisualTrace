@@ -1,4 +1,4 @@
-Our iOS app provides a guided approach to learning fundamental drawing techniques using visual cues. Users can select an image to project through the camera with adjustable opacity, allowing them to trace over the drawing effectively.
+My iOS app provides a guided approach to learning fundamental drawing techniques using visual cues. Users can select an image to project through the camera with adjustable opacity, allowing them to trace over the drawing effectively.
 
 ### App Features
 
@@ -14,4 +14,4 @@ Our iOS app provides a guided approach to learning fundamental drawing technique
 
 ### Conclusion
 
-Our app empowers users to improve their drawing skills by providing an intuitive way to trace images with adjustable opacity. This method makes it easier for users to learn and practice fundamental drawing techniques. In the future, we plan to introduce additional features, such as a library of pre-selected images for tracing, advanced editing tools, and a community platform for users to share their drawings and receive feedback. By continuously enhancing the app, we aim to support users on their artistic journey and help them develop their skills further.
+My app empowers users to improve their drawing skills by providing an intuitive way to trace images with adjustable opacity. This method makes it easier for users to learn and practice fundamental drawing techniques. In the future, I plan to introduce additional features, such as a library of pre-selected images for tracing, advanced editing tools, and a community platform for users to share their drawings and receive feedback. By continuously enhancing the app, I aim to support users on their artistic journey and help them develop their skills further.
