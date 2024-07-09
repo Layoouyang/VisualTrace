@@ -8,12 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		ABAC0CDB2C3CD68400A38E09 /* VisualTraceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0CDA2C3CD68400A38E09 /* VisualTraceApp.swift */; };
-		ABAC0CDD2C3CD68400A38E09 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0CDC2C3CD68400A38E09 /* ContentView.swift */; };
 		ABAC0CDF2C3CD68500A38E09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABAC0CDE2C3CD68500A38E09 /* Assets.xcassets */; };
 		ABAC0CE22C3CD68500A38E09 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABAC0CE12C3CD68500A38E09 /* Preview Assets.xcassets */; };
 		ABAC0CEC2C3CD68600A38E09 /* VisualTraceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0CEB2C3CD68600A38E09 /* VisualTraceTests.swift */; };
 		ABAC0CF62C3CD68600A38E09 /* VisualTraceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0CF52C3CD68600A38E09 /* VisualTraceUITests.swift */; };
 		ABAC0CF82C3CD68600A38E09 /* VisualTraceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0CF72C3CD68600A38E09 /* VisualTraceUITestsLaunchTests.swift */; };
+		ABAC0D052C3CD6E900A38E09 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D042C3CD6E900A38E09 /* HomePage.swift */; };
+		ABAC0D072C3CD70F00A38E09 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D062C3CD70F00A38E09 /* ImagePicker.swift */; };
+		ABAC0D092C3CD72800A38E09 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D082C3CD72800A38E09 /* RoundedButton.swift */; };
+		ABAC0D0B2C3CD74100A38E09 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D0A2C3CD74100A38E09 /* CameraView.swift */; };
+		ABAC0D0D2C3CD76100A38E09 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D0C2C3CD76100A38E09 /* ImagePickerView.swift */; };
+		ABAC0D0F2C3CD78000A38E09 /* RoundedRectangleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D0E2C3CD78000A38E09 /* RoundedRectangleButton.swift */; };
+		ABAC0D112C3CD79C00A38E09 /* NextPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D102C3CD79C00A38E09 /* NextPage.swift */; };
+		ABAC0D132C3CD7B400A38E09 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABAC0D122C3CD7B400A38E09 /* ARViewContainer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +43,6 @@
 /* Begin PBXFileReference section */
 		ABAC0CD72C3CD68400A38E09 /* VisualTrace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisualTrace.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABAC0CDA2C3CD68400A38E09 /* VisualTraceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualTraceApp.swift; sourceTree = "<group>"; };
-		ABAC0CDC2C3CD68400A38E09 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ABAC0CDE2C3CD68500A38E09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABAC0CE12C3CD68500A38E09 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABAC0CE72C3CD68600A38E09 /* VisualTraceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisualTraceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +50,15 @@
 		ABAC0CF12C3CD68600A38E09 /* VisualTraceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisualTraceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABAC0CF52C3CD68600A38E09 /* VisualTraceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualTraceUITests.swift; sourceTree = "<group>"; };
 		ABAC0CF72C3CD68600A38E09 /* VisualTraceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualTraceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		ABAC0D042C3CD6E900A38E09 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		ABAC0D062C3CD70F00A38E09 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		ABAC0D082C3CD72800A38E09 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		ABAC0D0A2C3CD74100A38E09 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
+		ABAC0D0C2C3CD76100A38E09 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
+		ABAC0D0E2C3CD78000A38E09 /* RoundedRectangleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedRectangleButton.swift; sourceTree = "<group>"; };
+		ABAC0D102C3CD79C00A38E09 /* NextPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextPage.swift; sourceTree = "<group>"; };
+		ABAC0D122C3CD7B400A38E09 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		ABAC0D142C3CD83400A38E09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +109,16 @@
 		ABAC0CD92C3CD68400A38E09 /* VisualTrace */ = {
 			isa = PBXGroup;
 			children = (
+				ABAC0D142C3CD83400A38E09 /* Info.plist */,
 				ABAC0CDA2C3CD68400A38E09 /* VisualTraceApp.swift */,
-				ABAC0CDC2C3CD68400A38E09 /* ContentView.swift */,
+				ABAC0D042C3CD6E900A38E09 /* HomePage.swift */,
+				ABAC0D062C3CD70F00A38E09 /* ImagePicker.swift */,
+				ABAC0D082C3CD72800A38E09 /* RoundedButton.swift */,
+				ABAC0D0A2C3CD74100A38E09 /* CameraView.swift */,
+				ABAC0D0C2C3CD76100A38E09 /* ImagePickerView.swift */,
+				ABAC0D0E2C3CD78000A38E09 /* RoundedRectangleButton.swift */,
+				ABAC0D102C3CD79C00A38E09 /* NextPage.swift */,
+				ABAC0D122C3CD7B400A38E09 /* ARViewContainer.swift */,
 				ABAC0CDE2C3CD68500A38E09 /* Assets.xcassets */,
 				ABAC0CE02C3CD68500A38E09 /* Preview Content */,
 			);
@@ -257,8 +280,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABAC0CDD2C3CD68400A38E09 /* ContentView.swift in Sources */,
+				ABAC0D0F2C3CD78000A38E09 /* RoundedRectangleButton.swift in Sources */,
+				ABAC0D072C3CD70F00A38E09 /* ImagePicker.swift in Sources */,
 				ABAC0CDB2C3CD68400A38E09 /* VisualTraceApp.swift in Sources */,
+				ABAC0D052C3CD6E900A38E09 /* HomePage.swift in Sources */,
+				ABAC0D0B2C3CD74100A38E09 /* CameraView.swift in Sources */,
+				ABAC0D132C3CD7B400A38E09 /* ARViewContainer.swift in Sources */,
+				ABAC0D112C3CD79C00A38E09 /* NextPage.swift in Sources */,
+				ABAC0D0D2C3CD76100A38E09 /* ImagePickerView.swift in Sources */,
+				ABAC0D092C3CD72800A38E09 /* RoundedButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +455,9 @@
 				DEVELOPMENT_TEAM = 34Z5KL838Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VisualTrace/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to take photos.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to select images.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +487,9 @@
 				DEVELOPMENT_TEAM = 34Z5KL838Q;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VisualTrace/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to your camera to take photos.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to select images.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
