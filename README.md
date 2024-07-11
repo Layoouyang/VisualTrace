@@ -17,3 +17,4 @@ My iOS app provides a guided approach to learning fundamental drawing techniques
 My app empowers users to improve their drawing skills by providing an intuitive way to trace images with adjustable opacity. This method makes it easier for users to learn and practice fundamental drawing techniques. In the future, I plan to introduce additional features, such as a library of pre-selected images for tracing, advanced editing tools, and a community platform for users to share their drawings and receive feedback. By continuously enhancing the app, I aim to support users on their artistic journey and help them develop their skills further.
 
 Demo Video: https://drive.google.com/file/d/1b-jSJciwGGBZNjuOzmEfzSz1Hb8bCLtO/view?usp=sharing
+[![Demo Video]](https://drive.google.com/file/d/1b-jSJciwGGBZNjuOzmEfzSz1Hb8bCLtO/view?usp=sharing)
